@@ -29,7 +29,7 @@ My task was to build an interface that allows non-developers to easily view and 
 
 ## <ins>Demo
 
-[Recording of Application](https://drive.google.com/file/d/14fJ4rVz_gsE0k9cXkOTU61MxB75dpMV6/view?usp=sharing)
+[Recording of Application](https://drive.google.com/file/d/1Ye5HvP7l_uPVn0j-i-q_NxqNf5CvN105/view?usp=sharing)
 
 ## <ins>Credits
 
